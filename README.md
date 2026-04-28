@@ -2,34 +2,33 @@
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 <div align=center>
-    <img src="https://share.google/lo5jFuUHGvUGciGCP" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Desenvolverdor+Web+e+Mobile;Bacharel+em+Ciência+da+Computação;" alt="Headline" />
 </div>
 
-<h1 align="center">Olá 👋, Eu sou {SEU-NOME-AQUI}</h1>
-<h3 align="center">{Seu-cargo-aqui} residente em {Cidade-Estado}/{País}.</h3>
-<p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
+<h1 align="center">Olá 👋, Eu sou o ADSON GUYLLAN</h1>
+<h3 align="center">Desenvolvedor residente em Sobral-CE/Brasil.</h3>
+<p align="center">{}</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adsonguyllans&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="adsonguyllans" /> </p>
 
-> _🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário._
+- 🔭 Atualmente, eu trabalho na Prefeitural Municipal de Sobral (https://www.sobral.ce.gov.br).
 
-- 🔭 Atualmente, eu trabalho na [Nome-da-empresa](https://site-da-empresa.com/).
+- 🌱 Meus estudos atuais focam em **Front and Back End (CSS, JavaScript, Angular, TypeScript and PHP)** e **Mobile Apps (Dart e Flutter)**.
 
-- 🌱 Meus estudos atuais focam em **Front End (Angular, JavaScript and TypeScript)** e **Application Design (Hexagonal Architecture)**.
-
-- 📫 Este é meu e-mail para contato: **contatomanualdofront@gmail.com**
+- 📫 Este é meu e-mail para contato: **aguyllan22@gmail.com**
 
 
-<h3 align="left">Linguagens e Ferramentas que domino:</h3>
+<h3 align="center">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,angular)]()
 
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,angular,php,py,ts,ai,dart,flutter,git,github,mysql,mongodb" />
+  </a>
+</p>
 
 
 <h3 align="left">Entre em contato comigo:</h3>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manualdofront/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contatomanualdofront@gmail.com)
-
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar seus contatos [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list). **Lembre-se de atualizar os links para SUAS redes sociais!**_
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)]()
+[![Gmail](https://skillicons.dev/icons?i=gmail)]()
